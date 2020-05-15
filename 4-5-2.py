@@ -18,4 +18,5 @@ print(df2)
 
 
 df2.to_csv('c:/PythonApp/Section4/result_csv.csv',index=False)
-#파일 저장
+
+#파일 저장,index=False는 행번호 제거
